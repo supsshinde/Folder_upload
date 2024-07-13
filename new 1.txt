@@ -1,0 +1,10 @@
+//Employee
+class Employee
+{
+
+}
+public class EmployeeDetails
+{
+ int id,salary;
+ String name;
+}
